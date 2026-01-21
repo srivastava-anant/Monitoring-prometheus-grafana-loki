@@ -13,19 +13,10 @@ The project focuses on building practical visibility into system behavior using 
 
 ## System Architecture 🏗️
 
-```
-Web Application (EC2)
-        │
-        ├── Metrics → Prometheus → Grafana
-        │
-        └── Logs → Loki → Grafana
+![unnamed](https://github.com/user-attachments/assets/e51f9509-5510-451c-a5ad-28399c3fec7b)
 
-Alert Rules → Slack
-```
 
-This architecture enables continuous monitoring, log correlation, and real-time alert notifications.
 
----
 
 ## Technology Stack 🧰
 
