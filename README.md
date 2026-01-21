@@ -52,25 +52,6 @@ The project focuses on building practical visibility into system behavior using 
 
 ---
 
-## Repository Structure 📂
-
-```
-monitoring/
-├── README.md
-├── prometheus/
-│   └── prometheus.yml
-├── grafana/
-│   └── dashboards/
-├── loki/
-│   └── loki-config.yml
-├── alerting/
-│   └── alert-rules.yml
-└── scripts/
-    └── setup.sh
-```
-
----
-
 ## Deployment Overview 🚀
 
 1. Launch an AWS EC2 instance (Linux-based)
